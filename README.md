@@ -14,8 +14,12 @@ By examining patterns in content distribution, popularity across genres, and reg
 
 For this project, the following repo uses data from Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-- Also, it contains code for the analysis (file called principal.ipynb).
+## About the files
+
+- Also, it contains code for the analysis (file called principal.ipynb)
+- The resources folder contains the CSV files of the dataset (original and cleaned) 
 - Finally, it contains the presentation slides (Project1-Netflix.pdf), with visible key findings.
+ 
 
 ## Final insights
 
