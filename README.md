@@ -9,7 +9,9 @@ Our primary objective was to answer the question: Based on the analyzed data, wh
 
 ## Why is this project useful?
 
-By examining patterns in content distribution, popularity across genres, and regional preferences, we gained valuable insights into which content resonates most with audiences in different countries. This analysis serves as a foundation for shaping Netflix’s content strategy, helping to identify where new releases could generate the greatest engagement and impact.
+By examining patterns in content distribution, popularity across genres, and regional preferences, we gained valuable insights into which content resonates most with audiences in different countries. 
+
+This analysis serves as a foundation for shaping Netflix’s content strategy, helping to identify where new releases could generate the greatest engagement and impact.
 
 ## About the Dataset
 
