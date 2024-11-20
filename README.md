@@ -4,6 +4,7 @@ ________________________________________________________________________________
 ## What is the aim of this project?
 
 In this project, we used the pandas library to analyze a dataset from Netflix, aiming to support strategic decision-making on content release strategies based on data insights. 
+
 Our primary objective was to answer the question: Based on the analyzed data, what release strategy should we follow?
 
 ## Why is this project useful?
