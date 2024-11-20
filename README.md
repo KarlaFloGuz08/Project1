@@ -23,10 +23,10 @@ For this project, the following repo uses data from Kaggle (https://www.kaggle.c
 
 ## Final insights
 
-### Explore new markets/Countries
-### Indian actors and directors driving engagement in South Asian markets
-### Focus on holiday trends
-### There remains a significant opportunity for growth in family-friendly content
+* Explore new markets/Countries
+* Indian actors and directors driving engagement in South Asian markets
+* Focus on holiday trends
+* There remains a significant opportunity for growth in family-friendly content
 
 
 
