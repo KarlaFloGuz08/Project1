@@ -24,7 +24,7 @@ For this project, the following repo uses data from Kaggle (https://www.kaggle.c
 - Finally, it contains the presentation slides (Project1-Netflix.pdf), with visible key findings.
  
 
-## Final insights
+## Final insights from the Analysis
 
 * Explore new markets/Countries
 * Indian actors and directors driving engagement in South Asian markets
